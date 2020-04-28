@@ -6,3 +6,4 @@ The content mainly includes three part:
 3. python-Pytorch code for building the same network
 4. python-Pytorch code for NLP (encoder and decoder with/without attention)
 5. python-Pytorch code for CV (CNNs for simple dataset)
+6. python-Pytorch code for time series segmentation (testing edition)
