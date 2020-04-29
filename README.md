@@ -1,4 +1,4 @@
-# MachineLearning4EEGinMSc
+# MachineLearning4EEGinMSc - U
 This is the folder for rewriting the code used for EEG signal processing during my master's degree, rewritten according to memory
 The content mainly includes three part:
 1. matalb code for preprocessing
