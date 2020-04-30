@@ -1,3 +1,5 @@
-# The CNNs or LSTM or CNN-LSTM, GAN(possible) code based on pytorch
+# Python_Torch_CNNs_for_EEG
+
+The CNNs or LSTM or CNN-LSTM, GAN(possible) code based on pytorch
 
 re-write from the Keras-based codes. Updating
