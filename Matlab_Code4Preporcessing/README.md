@@ -1,23 +1,23 @@
-*The list of code
+# The list of code
 
-**Dataset
+## Dataset
 There are fifiteen trials for each experiment. The labels of all trials are 1,0,-1,-1,0,1,-1,0,1,1,0,-1,0,1,-1, where 1 for positive, 0 for neutral and -1 for negative.
 For more detailed description of this dataset, please see http://bcmi.sjtu.edu.cn/~seed/
 
 If you use this dataset, please cite the following paper:
 "Investigating Critical Frequency Bands and Channels for EEG-based Emotion Recognition with Deep Neural Networks", Wei-Long Zheng, and Bao-Liang Lu, IEEE Transactions on Autonomous Mental Development (IEEE TAMD), 2015.
 
-**The code in the document
+## The code in the document
 
-1.downsample code: for downsample and split the data
+* downsample code: for downsample and split the data
 
-2.w_tidy:for 10 cross validation test
+* w_tidy:for 10 cross validation test
 and tidy_for_clips_based_test: for clips based test
 
-3.compostion: for setting up the cross validation
+* compostion: for setting up the cross validation
 
-4.compress: for dataset generation
+* compress: for dataset generation
 
-5.PSO: for NAS based on PSO algorithm
+* PSO: for NAS based on PSO algorithm
 
-6.BFOA: BFOA realization
+* BFOA: BFOA realization
